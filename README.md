@@ -10,3 +10,5 @@ Subjects:
 - English A: Language and Literature SL: 6
 - Extended Essay (Maths): B
 - Theory of Knowledge: C
+
+All work here, unless otherwise cited, is my own. **Do not plagiarise anything** as this puts your own diploma at risk.
