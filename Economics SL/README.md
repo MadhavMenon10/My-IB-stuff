@@ -1,8 +1,6 @@
 # Economics SL
 
 IA Grade: 42/45
-Paper one: 24/25
-Paper two: 39/40
 
 # Flashcards
 ## Microeconomics
