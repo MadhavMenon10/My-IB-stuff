@@ -75,5 +75,7 @@ IA Grade: 42/45
 - [16.3: Government intervention](https://quizlet.com/in/904549347/163-government-intervention-flash-cards/)
 - [16.4: Balance of payments](https://quizlet.com/in/904555624/164-balance-of-payments-flash-cards/)
 
+- [18.1 and 18.2: Sustainable development and measuring development](https://quizlet.com/in/904561308/181-182-sustainable-development-and-measuring-development-flash-cards/?funnelUUID=4aea9e6e-9901-47d8-b1c3-0f94e4dace61)
+
 
 
